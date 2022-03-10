@@ -1,0 +1,56 @@
+[
+  {
+    "Description": "Appointment for Chronic heart problem",
+    "StartTime": "2022-09-11",
+    "EndTime": "2022-09-11",
+    "RoomNumber": "14",
+    "Reccurence": "4",
+    "PatientId": "1",
+    "UserId": "1",
+    "Patient": {
+      "Id": 1,
+      "Name": "Lola",
+      "Surname": "Williams"
+    },
+    "User": {
+      "Id": 1,
+      "KnownAs": "Dr Rebecca"
+    }
+  },
+  {
+    "Description": "Appointment for Chronic Kidney problem",
+    "StartTime": "2022-04-15",
+    "EndTime": "2022-04-15",
+    "RoomNumber": "14",
+    "Reccurence": "4",
+    "PatientId": "2",
+    "UserId": "1",
+    "Patient": {
+      "Id": 2,
+      "Name": "Dorothy",
+      "Surname": "Freeman"
+    },
+    "User": {
+      "Id": 1,
+      "KnownAs": "Dr Rebecca"
+    }
+  },
+  {
+    "Description": "Appointment for Chronic Back problem",
+    "StartTime": "2022-03-22",
+    "EndTime": "2022-03-22",
+    "RoomNumber": "16",
+    "Reccurence": "1",
+    "PatientId": "3",
+    "UserId": "2",
+    "Patient": {
+      "Id": 3,
+      "Name": "Reba",
+      "Surname": "Watson"
+    },
+    "User": {
+      "Id": 2,
+      "KnownAs": "Dr Sibongile"
+    }
+  }
+]

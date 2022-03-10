@@ -1,0 +1,55 @@
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.deps.json
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.runtimeconfig.json
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.runtimeconfig.dev.json
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.csproj.CoreCompileInputs.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cs
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.AssemblyInfoInputs.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.AssemblyInfo.cs
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorTargetAssemblyInfo.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.pdb
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.pdb
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.csprojAssemblyReference.cache
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.deps.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.runtimeconfig.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.runtimeconfig.dev.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.pdb
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cache
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cs
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.AssemblyInfoInputs.cache
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.AssemblyInfo.cs
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorTargetAssemblyInfo.cache
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.pdb
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\Data\UserSeedData.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\package-lock.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Nmoyo\Documents\datingapp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.csprojAssemblyReference.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\Data\UserSeedData.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\package-lock.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.deps.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.runtimeconfig.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.runtimeconfig.dev.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingAPP.API.pdb
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.AssemblyInfoInputs.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.AssemblyInfo.cs
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.csproj.CoreCompileInputs.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cs
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.RazorTargetAssemblyInfo.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.pdb
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.genruntimeconfig.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\Data\PatientSeedData.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\Data\MedicalRecord.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\bin\Debug\netcoreapp2.1\Data\AppointmentSeedData.json
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\DatingApp\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingAPP.API.csproj.AssemblyReference.cache

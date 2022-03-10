@@ -1,0 +1,80 @@
+
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-sm-4">
+        <h1>Patient Profile</h1>
+    </div>
+    <div class="col-sm-8">
+      <div *ngIf="editForm.dirty" class="alert alert-info">
+        <p>
+          <strong>Information:</strong>
+          You have made changes. Any unsaved changes will be lost!
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card">
+        <img class="card-img-top img-thumbnail" src="{{'../../../../../assets/user.png'}}" alt="{{patient?.name}}">
+        <div class="card-body">
+          <div>
+            <strong>Full Name:</strong>
+            <p>{{patient?.name}}, {{patient?.surname}}</p>
+          </div>
+          <div>
+            <strong>IdNumber:</strong>
+            <p>{{patient?.idNumber}}</p>
+          </div>
+          <div>
+            <strong>Age:</strong>
+            <p>{{patient.age}}</p>
+          </div>
+      </div>
+      <div class="card-footer">
+          <button [disabled]="!editForm.dirty" form="editForm" class="btn btn-success btn-block">Save Changes</button>    
+      </div>
+      </div>
+    </div>
+    <div class="col-sm-8">
+      <div class="">
+          <h4>Edit Patient Profile</h4> 
+            <form #editForm="ngForm" id="editForm" (ngSubmit)="updatePatient()">
+              <div class="form-inline-block">
+                <label for="phoneNumber"><strong>PhoneNumber:</strong></label>
+                <input class="form-control" type="text" name="phoneNumber" 
+                [(ngModel)]="patient.phoneNumber">
+                <label for="email"><strong>Email:</strong></label>
+                <input class="form-control" type="text" name="email" 
+                [(ngModel)]="patient.email">
+                <label for="country"><strong>City:</strong></label>
+                <input class="form-control" type="text" name="city" 
+                [(ngModel)]="patient.city">
+                <label for="country"><strong>Country:</strong></label>
+                <input class="form-control" type="text" name="country" 
+                [(ngModel)]="patient.country">
+              </div>
+            <hr/>
+              <h4>Allergies</h4>
+              <textarea name="allergies" rows="6" class="form-control"
+               [(ngModel)]="patient.allergies"></textarea>
+              <h4>Medical History</h4>
+              <textarea name="medicalHistory" rows="6" class="form-control"
+              [(ngModel)]="patient.medicalHistory"></textarea>
+              <h4>Radiology</h4>
+              <textarea name="radiology" rows="6" class="form-control"
+              [(ngModel)]="patient.radiology"></textarea>
+              <h4>Scripts:</h4>
+              <textarea name="scripts" rows="6" class="form-control"
+              [(ngModel)]="patient.scripts"></textarea>
+              <h4>Medication:</h4>
+              <textarea name="medication" rows="6" class="form-control"
+              [(ngModel)]="patient.medication"></textarea>
+              <h4>Billing:</h4>
+              <textarea name="billing" rows="6" class="form-control"
+              [(ngModel)]="patient.billing"></textarea>    
+            </form>
+      </div>
+    </div>
+  </div>
+</div>

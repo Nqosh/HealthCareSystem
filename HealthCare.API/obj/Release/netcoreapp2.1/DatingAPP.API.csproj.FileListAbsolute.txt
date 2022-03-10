@@ -1,0 +1,13 @@
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Release\netcoreapp2.1\DatingAPP.API.deps.json
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Release\netcoreapp2.1\DatingAPP.API.runtimeconfig.json
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Release\netcoreapp2.1\DatingAPP.API.runtimeconfig.dev.json
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Release\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\bin\Release\netcoreapp2.1\DatingAPP.API.pdb
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.csproj.CoreCompileInputs.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.RazorAssemblyInfo.cs
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.AssemblyInfoInputs.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.AssemblyInfo.cs
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.RazorTargetAssemblyInfo.cache
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.dll
+C:\Users\abnmbfh\source\repos\DatingAPP.API\DatingAPP.API\obj\Release\netcoreapp2.1\DatingAPP.API.pdb

@@ -1,0 +1,73 @@
+<div class="container mt-4">
+  <div class="row">
+    <h1>Patient Medical Profile</h1>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card">
+        <div class="card-body">
+          <div>
+            <strong>Full Name:</strong>
+            <p>{{patient?.name}}, {{patient?.surname}}</p>
+          </div>
+          <div>
+            <strong>ID Number:</strong>
+            <p>{{patient?.idNumber}}</p>
+          </div>
+          <div>
+            <strong>Age:</strong>
+            <p>{{patient?.age}}</p>
+          </div>
+          <div>
+            <strong>Gender:</strong>
+            <p>{{patient?.gender}}</p>
+          </div>
+          <div>
+            <strong>PhoneNumber:</strong>
+            <p>{{patient?.phoneNumber}}</p>
+          </div>
+          <div>
+            <strong>City:</strong>
+            <p>{{patient?.city}}</p>
+          </div>
+          <div>
+            <strong>Country:</strong>
+            <p>{{patient?.country}}</p>
+          </div>
+          <div>
+            <strong>Email:</strong>
+            <p>{{patient?.email}}</p>
+          </div>
+        </div>
+        <div class="card-footer">
+          <div class="btn-group d-flex">
+            <button class="btn btn-primary w-100"  [routerLink]="['/patient/edit/', patient.id]">Edit</button>
+            <button class="btn btn-success w-100" (click)="deletePatient(patient.id)"  >Delete</button>
+          </div>       
+        </div>
+      </div>   
+    </div>
+    <div class="col-sm-8">
+      <div class="tab-panel">
+        <tabset class="member-tabset" #memberTabs> 
+          <tab heading="Allergies">
+            <p>{{patient?.allergies}}</p>
+          </tab>
+          <tab heading="Medical History">
+            <div *ngFor="let med of medicalRecords" class="col-lg-2 col-md-3 col-sm-6">    
+                <p>{{med.description}}</p>           
+            </div>
+          </tab>
+          <tab heading="Radiology">
+          </tab>
+          <tab heading="Scripts">
+          </tab>
+          <tab heading="Medication">
+          </tab>
+          <tab heading="Billing">
+          </tab>
+        </tabset>
+      </div>
+    </div>
+  </div>
+</div>

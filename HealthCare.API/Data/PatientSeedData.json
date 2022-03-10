@@ -1,0 +1,120 @@
+[
+  {
+    "Name": "Lola",
+    "Surname": "Williams",
+    "IdNumber": "9105036357089",
+    "Gender": "female",
+    "Age": "35",
+    "PhoneNumber": "07134574874",
+    "Email": "lola@gmail.com",
+    "DateOfBirth": "1994-02-21",
+    "Password": "password",
+    "Created": "2017-08-02",
+    "MedicalDescription": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "Allergies": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "City": "Efland",
+    "Country": "Burundi",
+    "url": "https://cdn.iconscout.com/icon/premium/png-128-thumb/patient-67-733426.png",
+    "MedicalRecords": [
+      {
+        "description": "Chronic Heart Condition",
+        "Created": "2017-08-02",
+        "Updated": "2017-08-02"
+      }
+    ]
+  },
+  {
+    "Name": "Dorothy",
+    "Surname": "Freeman",
+    "IdNumber": "8707036157084",
+    "Gender": "female",
+    "Age": "28",
+    "PhoneNumber": "0713458356",
+    "Email": "dorothy@gmail.com",
+    "DateOfBirth": "1979-04-19",
+    "Password": "password",
+    "Created": "2017-01-21",
+    "MedicalDescription": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "Allergies": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "City": "Durban",
+    "Country": "South Africa",
+    "url": "https://cdn.iconscout.com/icon/premium/png-128-thumb/patient-67-733426.png",
+    "MedicalRecords": [
+      {
+        "description": "Chronic Heart Condition",
+        "Created": "2017-01-21",
+        "Updated": "2017-01-21"
+      }
+    ]
+  },
+  {
+    "Name": "Reba",
+    "Surname": "Watson",
+    "IdNumber": "8505036157084",
+    "Gender": "female",
+    "Age": "30",
+    "PhoneNumber": "0734687654",
+    "DateOfBirth": "1984-12-05",
+    "Password": "password",
+    "Created": "2017-06-24",
+    "MedicalDescription": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "Allergies": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "City": "Johannesburg",
+    "Country": "South Africa",
+    "url": "https://cdn.iconscout.com/icon/premium/png-128-thumb/patient-67-733426.png",
+    "MedicalRecords": [
+      {
+        "description": "Chronic Heart Condition",
+        "Created": "2017-06-24",
+        "Updated": "2017-06-06"
+      }
+    ]
+  },
+  {
+    "Name": "Nqobile",
+    "Surname": "Moyo",
+    "IdNumber": "9105036357089",
+    "Gender": "male",
+    "Age": "30",
+    "PhoneNumber": "0718494511",
+    "DateOfBirth": "1991-05-03",
+    "Password": "password",
+    "Created": "2017-07-17",
+    "MedicalDescription": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "Allergies": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "City": "Sutton",
+    "Country": "South Africa",
+    "url": "https://cdn.iconscout.com/icon/premium/png-128-thumb/patient-67-733426.png",
+    "MedicalRecords": [
+      {
+        "description": "Chronic Heart Condition",
+        "Created": "2017-07-17",
+        "Updated": "2017-07-17"
+      }
+    ]
+  },
+  {
+    "Name": "Roy",
+    "Surname": "Ndlovu",
+    "IdNumber": "9305036357089",
+    "Gender": "male",
+    "Age": "29",
+    "PhoneNumber": "0738434522",
+    "DateOfBirth": "1993-08-21",
+    "Password": "password",
+    "Created": "2017-08-03",
+    "LastActive": "2017-08-03",
+    "MedicalDescription": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "Allergies": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+    "City": "Davenport",
+    "Country": "Tuvalu",
+    "url": "https://cdn.iconscout.com/icon/premium/png-128-thumb/patient-67-733426.png",
+    "MedicalRecords": [
+      {
+        "description": "Chronic Heart Condition",
+        "Created": "2017-08-03",
+        "Updated": "2017-08-03"
+      }
+    ]
+  }
+]

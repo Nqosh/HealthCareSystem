@@ -1,0 +1,67 @@
+<div class="container" style="margin-top: 70px;">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Patient Name</th>
+        <th>Patient Surname</th>
+        <th>Description</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Room Number</th>
+        <th>Reccurence</th>
+        <th>Doctor Assigned</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let appointment of appointments">
+        <td>{{ appointment.id }}</td>
+        <td> {{ appointment.patientName }}</td>
+        <td> {{ appointment.patientSurname }}</td>
+        <td> {{ appointment.description }}</td>
+        <td> {{ appointment.startTime }}</td>
+        <td> {{ appointment.endTime }}</td>
+        <td> {{ appointment.roomNumber }}</td>
+        <td> {{ appointment.reccurence }}</td>
+        <td> {{ appointment.doctor }}</td>
+        <td>
+          <button class="btn btn-primary" (click)="selectAppointment(appointment)"> Show details</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="card text-center" *ngIf="selectedAppointment">
+    <div class="card-header">
+     <h4><strong>Appointment Details</strong></h4>
+    </div>
+    <div class="card-block">
+      <h4 class="card-title">{{selectedAppointment.patientName}} {{selectedAppointment.patientSurname}}</h4>
+      <label for="description"><strong>Description:</strong></label>
+      <div class="card-text">
+        {{selectedAppointment.description}}
+      </div>
+      <label for="description"><strong>Description:</strong></label>
+      <div class="card-text">
+        {{selectedAppointment.startTime}}
+      </div>
+      <label for="description"><strong>Room Number:</strong></label>     
+      <div class="card-text">
+        {{selectedAppointment.roomNumber}}
+      </div>
+      <label for="description"><strong>Recurrence of Visits:</strong></label>   
+      <div class="card-text">
+        {{selectedAppointment.reccurence}}
+      </div>
+      <label for="description"><strong>Doctor Assigned:</strong></label>    
+      <div class="card-text">
+        {{selectedAppointment.doctor}}
+      </div>
+      <hr/>
+      <div class="card-text">
+        <button class="btn btn-primary w-25"  [routerLink]="['/appointment/edit/', selectedAppointment.id]">Edit</button>
+        <button class="btn btn-success w-25" (click)="deleteAppointment(selectedAppointment.id)"  >Delete</button>
+      </div>     
+    </div>
+
+  </div>
+</div>
