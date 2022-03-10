@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingAPP.API.Helpers
+namespace HealthCare.API.Helpers
 {
     public static class Extensions
     {

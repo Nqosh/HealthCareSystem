@@ -1,4 +1,4 @@
-﻿namespace DatingAPP.API.Models
+﻿namespace HealthCare.API.Models
 {
     using System;
 

@@ -1,10 +1,10 @@
-﻿using DatingAPP.API.Models;
+﻿using HealthCare.API.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingAPP.API.DTO
+namespace HealthCare.API.DTO
 {
     public class UserForDetailDto
     {

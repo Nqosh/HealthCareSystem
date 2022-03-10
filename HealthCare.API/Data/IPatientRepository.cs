@@ -1,11 +1,11 @@
-﻿using DatingAPP.API.Helpers;
-using DatingAPP.API.Models;
+﻿using HealthCare.API.Helpers;
+using HealthCare.API.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingAPP.API.Data
+namespace HealthCare.API.Data
 {
     public interface IPatientRepository
     {

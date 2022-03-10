@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DatingAPP.API.Models;
+using HealthCare.API.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace DatingAPP.API.Data
+namespace HealthCare.API.Data
 {
     public class DataContext : DbContext
     {

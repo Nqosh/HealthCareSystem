@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingAPP.API.DTO
+namespace HealthCare.API.DTO
 {
     public class UserForRegisterDto
     {

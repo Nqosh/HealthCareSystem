@@ -12965,9 +12965,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CT301728\\Documents\\Nqobile\\Personal Projects\\HealthCareApp\\HealthCare.API\\DatingApp.API.csproj",
-      "projectName": "DatingApp.API",
-      "projectPath": "C:\\Users\\CT301728\\Documents\\Nqobile\\Personal Projects\\HealthCareApp\\HealthCare.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\CT301728\\Documents\\Nqobile\\Personal Projects\\HealthCareApp\\HealthCare.API\\HealthCare.API.csproj",
+      "projectName": "HealthCare.API",
+      "projectPath": "C:\\Users\\CT301728\\Documents\\Nqobile\\Personal Projects\\HealthCareApp\\HealthCare.API\\HealthCare.API.csproj",
       "packagesPath": "C:\\Users\\CT301728\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\CT301728\\Documents\\Nqobile\\Personal Projects\\HealthCareApp\\HealthCare.API\\obj\\",
       "projectStyle": "PackageReference",

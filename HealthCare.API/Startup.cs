@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using DatingAPP.API.Data;
+using HealthCare.API.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -11,10 +11,10 @@ using System.Text;
 using System.Net;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
-using DatingAPP.API.Helpers;
+using HealthCare.API.Helpers;
 using AutoMapper;
 
-namespace DatingAPP.API
+namespace HealthCare.API
 {
     public class Startup
     {

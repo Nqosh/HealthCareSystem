@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
-using DatingAPP.API.DTO;
-using DatingAPP.API.Models;
+using HealthCare.API.DTO;
+using HealthCare.API.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingAPP.API.Helpers
+namespace HealthCare.API.Helpers
 {
     public class AutoMapperProfiles: Profile
     {

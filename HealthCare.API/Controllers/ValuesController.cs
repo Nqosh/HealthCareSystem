@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DatingAPP.API.Data;
+using HealthCare.API.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace DatingAPP.API.Controllers
+namespace HealthCare.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -1,4 +1,4 @@
-﻿using DatingAPP.API.Data;
+﻿using HealthCare.API.Data;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DatingAPP.API.Helpers
+namespace HealthCare.API.Helpers
 {
     public class LogUserActivity : IAsyncActionFilter
     {

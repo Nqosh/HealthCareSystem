@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace DatingAPP.API.Migrations
+namespace HealthCare.API.Migrations
 {
     public partial class PatientUpdate : Migration
     {

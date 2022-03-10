@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Gt5QD2qLrxb12KKhV7K5xHuvMsZQcgTrCgKDvtdSLTNCwLjLbuugXmqArLjJHQIKcQCnaFoWuPlcvrmTgMnsg==",
+  "dgSpecHash": "rvllyYIeyemb43pglA6cGviI7AnH5xVpc4bRaNKBxYvgRnep1H6hzTspoPWs+RkjQWd6ETJOmItKgiwkWnKukQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CT301728\\Documents\\Nqobile\\Personal Projects\\HealthCareApp\\HealthCare.API\\DatingApp.API.csproj",
+  "projectFilePath": "C:\\Users\\CT301728\\Documents\\Nqobile\\Personal Projects\\HealthCareApp\\HealthCare.API\\HealthCare.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CT301728\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\CT301728\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

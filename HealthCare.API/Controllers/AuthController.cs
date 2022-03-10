@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
-using DatingAPP.API.Data;
-using DatingAPP.API.DTO;
-using DatingAPP.API.Models;
+using HealthCare.API.Data;
+using HealthCare.API.DTO;
+using HealthCare.API.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -11,7 +11,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DatingAPP.API.Controllers
+namespace HealthCare.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

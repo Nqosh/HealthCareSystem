@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DatingAPP.API.Helpers;
-using DatingAPP.API.Models;
+using HealthCare.API.Helpers;
+using HealthCare.API.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace DatingAPP.API.Data
+namespace HealthCare.API.Data
 {
     public class DatingRepository : IDatingRepository
     {

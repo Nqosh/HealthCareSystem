@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 using AutoMapper;
 using CloudinaryDotNet;
 using CloudinaryDotNet.Actions;
-using DatingAPP.API.Data;
-using DatingAPP.API.DTO;
-using DatingAPP.API.Helpers;
-using DatingAPP.API.Models;
+using HealthCare.API.Data;
+using HealthCare.API.DTO;
+using HealthCare.API.Helpers;
+using HealthCare.API.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 
-namespace DatingAPP.API.Controllers
+namespace HealthCare.API.Controllers
 {
 
     [Authorize]

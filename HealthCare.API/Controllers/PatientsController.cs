@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using DatingAPP.API.Data;
-using DatingAPP.API.DTO;
-using DatingAPP.API.Helpers;
-using DatingAPP.API.Models;
+using HealthCare.API.Data;
+using HealthCare.API.DTO;
+using HealthCare.API.Helpers;
+using HealthCare.API.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace DatingAPP.API.Controllers
+namespace HealthCare.API.Controllers
 {
     [Authorize]
     [Route("api/[controller]")]
