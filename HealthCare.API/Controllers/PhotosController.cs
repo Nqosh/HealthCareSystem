@@ -23,12 +23,12 @@ namespace HealthCare.API.Controllers
     [ApiController]
     public class PhotosController : ControllerBase
     {
-        private readonly IDatingRepository _repo;
+        private readonly IUserRepository _repo;
         private readonly IMapper _mapper;
         private readonly IOptions<CloudinarySettings> _cloudConfig;
         private Cloudinary _cloudinary;
 
-        public PhotosController(IDatingRepository repo, IMapper mapper,
+        public PhotosController(IUserRepository repo, IMapper mapper,
             IOptions<CloudinarySettings> cloudConfig)
         {
             _repo = repo;

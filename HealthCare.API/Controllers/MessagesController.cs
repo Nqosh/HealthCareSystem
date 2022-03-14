@@ -21,10 +21,10 @@ namespace HealthCare.API.Controllers
     public class MessagesController : ControllerBase
     {
 
-        private readonly IDatingRepository _repo;
+        private readonly IUserRepository _repo;
         private readonly IMapper _mapper;
 
-        public MessagesController(IDatingRepository repo, IMapper mapper)
+        public MessagesController(IUserRepository repo, IMapper mapper)
         {
             _repo = repo;
             _mapper = mapper;

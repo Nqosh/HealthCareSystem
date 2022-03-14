@@ -9,10 +9,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace HealthCare.API.Data
 {
-    public class DatingRepository : IDatingRepository
+    public class UserRepository : IUserRepository
     {
         private DataContext _context;
-        public DatingRepository(DataContext context)
+        public UserRepository(DataContext context)
         {
             _context = context;
         }

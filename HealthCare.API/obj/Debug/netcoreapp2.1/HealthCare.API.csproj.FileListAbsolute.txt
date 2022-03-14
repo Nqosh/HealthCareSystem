@@ -20,3 +20,4 @@ C:\Users\CT301728\Documents\Nqobile\Personal Projects\HealthCareApp\HealthCare.A
 C:\Users\CT301728\Documents\Nqobile\Personal Projects\HealthCareApp\HealthCare.API\obj\Debug\netcoreapp2.1\HealthCare.API.dll
 C:\Users\CT301728\Documents\Nqobile\Personal Projects\HealthCareApp\HealthCare.API\obj\Debug\netcoreapp2.1\HealthCare.API.pdb
 C:\Users\CT301728\Documents\Nqobile\Personal Projects\HealthCareApp\HealthCare.API\obj\Debug\netcoreapp2.1\HealthCare.API.genruntimeconfig.cache
+C:\Users\CT301728\Documents\Nqobile\Personal Projects\HealthCareApp\HealthCare.API\obj\Debug\netcoreapp2.1\HealthCare.API.csproj.AssemblyReference.cache

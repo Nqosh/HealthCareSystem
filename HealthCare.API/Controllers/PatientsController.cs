@@ -20,11 +20,11 @@ namespace HealthCare.API.Controllers
     [ApiController]
     public class PatientsController : ControllerBase
     {
-        private readonly IDatingRepository _repo;
+        private readonly IUserRepository _repo;
         private readonly IPatientRepository _patientRepo;
         private readonly IMapper _mapper;
 
-        public PatientsController(IDatingRepository repo, IPatientRepository patientRepo, IMapper mapper)
+        public PatientsController(IUserRepository repo, IPatientRepository patientRepo, IMapper mapper)
         {
             _repo = repo;
             _mapper = mapper;
